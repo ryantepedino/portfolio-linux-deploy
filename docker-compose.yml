@@ -1,0 +1,9 @@
+services:
+  api:
+    build: .
+    container_name: linux-deploy-api
+
+    ports:
+      - "8001:8000"
+
+    restart: always
