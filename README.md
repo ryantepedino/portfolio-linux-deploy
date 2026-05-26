@@ -1,5 +1,7 @@
 # Linux Deploy Portfolio API
 
+API profissional containerizada com FastAPI, Docker e Docker Compose para simulação de deploy Linux em ambiente real.
+
 Projeto desenvolvido para demonstrar conhecimentos práticos em:
 
 - Linux
